@@ -176,7 +176,7 @@ export default function ApologyLetter({ onContinue }) {
               ease: 'easeOut',
             }}
           >
-            One little wish… Can we write a happier chapter together, Komal? ❤️
+            One little wish… Can we write a happier chapter together,
           </motion.p>
 
           <motion.p
