@@ -4,7 +4,7 @@
  */
 
 /** Change this to your name — shown above the response form */
-export const senderName = 'GR'
+export const senderName = ''
 
 export const PHASES = {
   ENVELOPE: 'envelope',
@@ -136,7 +136,7 @@ export const feelingOptions = [
 export const POSITIVE_TONES = new Set(['positive'])
 
 /** Main letter body — shown before the animated heart */
-export const APOLOGY_LETTER_BODY = `Dear,KS ❤️
+export const APOLOGY_LETTER_BODY = `Dear ❤️
 
 I know I made mistakes, and I'm truly sorry for hurting you. I never wanted to be the reason behind your tears or sadness.
 
